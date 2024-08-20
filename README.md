@@ -1,6 +1,6 @@
 # Car-sales-dashboard
 ![Screenshot 2024-08-20 113156](https://github.com/user-attachments/assets/1bad6d4d-9757-46e3-b587-d2daeba63b91)
-Insights****
+# Insights
 1. Average Selling Price Over the Years (Top Left)
 Description: This line chart shows the trend of the average selling price of cars from 1994 to 2020.
 Insight: The average selling price has been steadily increasing from 1994 until around 2017, where there is a sharp spike followed by a decline and then stabilization. This could indicate a significant event in the market around 2017, such as the introduction of luxury models or economic factors leading to a temporary price hike.
