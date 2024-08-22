@@ -27,5 +27,5 @@ The average selling price is strongly influenced by the number of seats, with 4-
 Luxury brands like BMW, Audi, and Mercedes-Benz command significantly higher prices compared to other brands.
 
 If you like my work you can contact me in linkedin.
-My linkedin profile:[www.linkedin.com/in/meghana-andhavarapu-4b88a6244/](url)
+[My linkedin profile](https://www.linkedin.com/in/meghana-andhavarapu-4b88a6244/)
 
